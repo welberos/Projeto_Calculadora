@@ -80,15 +80,7 @@
                 <asp:Label ID="lblResultado" runat="server"></asp:Label>
                 <br />
             </asp:Panel>
-        </div>
-            
-        
-        
-
-
-        
-            
-        
+        </div>       
     </form>
 </body>
 </html>
